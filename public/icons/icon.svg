@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="128" height="128">
+  <!-- C shape hexagonal -->
+  <path d="M50 10 L82 28.5 L82 43.5 L50 25 L25 39.5 L25 68.5 L50 83 L75 68.5 L75 83.5 L50 98 L12 76 L12 32 Z" fill="#242938"/>
+  <path d="M75 51.5 L75 68.5 L50 83 L50 71 L63.5 63 Z" fill="#242938"/>
+  
+  <!-- </> code symbol -->
+  <g stroke="#7A89EB" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M38 42 L28 51.5 L38 61" />
+    <path d="M62 42 L72 51.5 L62 61" />
+    <path d="M54 36 L46 67" />
+  </g>
+</svg>
